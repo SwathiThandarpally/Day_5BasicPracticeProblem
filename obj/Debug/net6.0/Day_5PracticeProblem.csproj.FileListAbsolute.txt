@@ -1,0 +1,15 @@
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\bin\Debug\net6.0\Day_5PracticeProblem.exe
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\bin\Debug\net6.0\Day_5PracticeProblem.deps.json
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\bin\Debug\net6.0\Day_5PracticeProblem.runtimeconfig.json
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\bin\Debug\net6.0\Day_5PracticeProblem.dll
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\bin\Debug\net6.0\Day_5PracticeProblem.pdb
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.csproj.AssemblyReference.cache
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.AssemblyInfoInputs.cache
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.AssemblyInfo.cs
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.csproj.CoreCompileInputs.cache
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.dll
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\refint\Day_5PracticeProblem.dll
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.pdb
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\Day_5PracticeProblem.genruntimeconfig.cache
+C:\Users\sai\source\repos\Day_5PracticeProblem\Day_5PracticeProblem\obj\Debug\net6.0\ref\Day_5PracticeProblem.dll
